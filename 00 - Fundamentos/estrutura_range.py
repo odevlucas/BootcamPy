@@ -1,0 +1,2 @@
+for numero in range (0, 51, 5): #0 = start, 51 stop (lembrando que é sempre -1 por causa do zero) e o 5 é o step.
+    print(numero, end=", ") #o end no final é para evitar a quebra de linha padrão do py, dessa forma, o resultado será listado em uma única linha
