@@ -1,3 +1,4 @@
+#podem ser declaradas com itens dentro dos parênteses: frutas = ("laranja","pera","uva",) nesse caso é recomendado colocar uma vírgula após o último elemento
 frutas = (
     "laranja",
     "pera",
